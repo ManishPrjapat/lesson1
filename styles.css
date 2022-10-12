@@ -95,3 +95,9 @@ color:white
     text-align: center;
     padding: 2rem;
 }
+.section h1 {
+    text-align:center;
+}
+.section {
+    background-color: var(--off-white);
+}
